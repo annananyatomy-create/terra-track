@@ -1,0 +1,6 @@
+{
+  "name": "Terra Track",
+  "description": "A modern, professional, responsive homepage engineered with high performance, eco-friendly infrastructure, and fluid cross-device design in blue and green palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
